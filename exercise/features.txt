@@ -1,0 +1,13 @@
+Fully Functional Website, featuring:
+
+HTML5 preview of PDF files
+Different homepages for different roles
+10-star rating system - with different rating categories
+Editor overview table (top-rated papers)
+User-specific Favorite and Recents menu
+Subject Taxonomy of papers
+Simplified UI
+Printer-friendly versions of nodes
+WYSIWYG HTML editor
+Contact form
+Main menu with drop-down capabilities
